@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+  <Product>
+    <Number>Mobile</Number>
+    <Manufacturer>Nokia</Manufacturer>
+    <Description>Specifications</Description>
+    <Quantity>4</Quantity>
+    <Price>10300</Price>
+  </Product>
+
+  <Product>
+    <Number>Memory Card</Number>
+    <Manufacturer>Sandisk</Manufacturer>
+    <Description>8GB Memory Card</Description>
+    <Quantity>15</Quantity>
+    <Price>427</Price>
+  </Product>
+
+  <Product>
+    <Number>Laptop</Number>
+    <Manufacturer>Dell</Manufacturer>
+    <Description>1TB Memory ,2GB Ram,i3 processor</Description>
+    <Quantity>9</Quantity>
+    <Price>35000</Price>
+  </Product>
+
+  <Product>
+    <Number>Television</Number>
+    <Manufacturer>Sony</Manufacturer>
+    <Description>22 inch television</Description>
+    <Quantity>13</Quantity>
+    <Price>27000</Price>
+  </Product>
+</Products>
